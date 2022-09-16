@@ -21,7 +21,7 @@
   #### Cloning
   ```ps
   # Clone o repositório utilizando o git
-  $ git clone ()
+  $ git clone (https://github.com/Brenovieira41/Mensagerias.git)
   ```
 
   #### Rodando docker
